@@ -34,6 +34,6 @@ Generate allure report via cmd 'allure serve allure-results'
 ===========================================
 Test output
 ===========================================
-Allure Report path : ./allure-results
-Logs path : ./Log4j2
-Extent Report Path : ./SavedExtentReports
+===Allure Report path : ./allure-results 
+===Logs path : ./Log4j2 
+===Extent Report Path : ./SavedExtentReports
