@@ -12,7 +12,7 @@ Eclipse TestNG Plugin: https://testng.org/doc/eclipse.html
 Tech Stach:
 ===================================
 Maven
-TestNG 
+TestNG
 Selenium
 Log4j2
 Allure-reports

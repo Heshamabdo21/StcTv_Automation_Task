@@ -1,3 +1,9 @@
+
+/*
+ * Copyright (c) 2023.
+ * Hesham Abd Elhamed Gharib
+ */
+
 package Utils;
 
 import io.github.bonigarcia.wdm.WebDriverManager;

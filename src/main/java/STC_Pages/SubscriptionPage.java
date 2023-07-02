@@ -1,3 +1,9 @@
+
+/*
+ * Copyright (c) 2023.
+ * Hesham Abd Elhamed Gharib
+ */
+
 package STC_Pages;
 
 import io.qameta.allure.Step;

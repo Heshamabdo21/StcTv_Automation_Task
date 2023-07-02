@@ -1,3 +1,9 @@
+
+/*
+ * Copyright (c) 2023.
+ * Hesham Abd Elhamed Gharib
+ */
+
 package STC_TestCases;
 
 import DataProviders.StcTvDataProvider;
@@ -22,8 +28,6 @@ public class Stc_TestCase extends BaseTest {
     }
 
     @Test(enabled = true, dataProvider = "DataProvider", dataProviderClass = StcTvDataProvider.class)
-  //  @Description("Assert Plan type, price and currency for {countryName}")
-
     public void stcTv_TestCases(String countryName,String liteName, String litePrice,String classicName,
                                         String classicPrice, String premiumName,   String premiumPrice, String currency)
             throws InterruptedException, IOException, Exception {
