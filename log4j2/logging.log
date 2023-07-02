@@ -1,0 +1,170 @@
+[INFO ] 2023-07-02 16:41:47.865 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:41:57.945 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:41:58.047 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:41:58.488 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 16:42:02.862 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:42:04.159 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:42:05.260 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:42:56.077 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:42:56.141 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:42:56.148 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:43:05.103 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:43:05.222 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:43:06.115 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 16:43:10.910 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:11.229 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:11.517 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:20.724 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:43:20.821 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:43:21.536 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 16:43:24.026 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:24.372 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:24.694 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:43:33.631 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:43:33.696 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:43:34.334 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 16:46:15.653 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:15.723 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:15.730 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:26.672 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:26.742 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:46:27.479 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 16:46:30.007 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:30.332 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:30.594 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:38.037 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:38.122 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:46:38.865 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 16:46:41.719 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:41.942 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:42.162 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:50.237 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 16:46:50.325 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 16:46:50.949 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 16:46:53.944 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:54.165 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 16:46:54.391 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:34:03.638 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:34:23.504 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:34:23.602 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:34:24.193 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:34:30.398 [TestNG-PoolService-0] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:34:30.398 [TestNG-PoolService-2] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:34:30.398 [TestNG-PoolService-1] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:37:35.866 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:37:46.324 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:37:47.550 [TestNG-PoolService-0] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:37:47.556 [TestNG-PoolService-1] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:37:47.573 [TestNG-PoolService-2] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:37:48.266 [TestNG-PoolService-0] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:37:48.292 [TestNG-PoolService-1] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 17:37:48.301 [TestNG-PoolService-2] Log - Click Element Natively: By.id: kw
+[ERROR] 2023-07-02 17:37:50.325 [TestNG-PoolService-2] Log - stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'TW-1056', ip: '192.168.1.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [646edb322615ef51e8f8617231e3cfba, actions {actions=[org.openqa.selenium.interactions.Sequence@53dca662]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\HESHAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57087/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 646edb322615ef51e8f8617231e3cfba
+[ERROR] 2023-07-02 17:37:50.325 [TestNG-PoolService-1] Log - stale element reference: stale element not found
+  (Session info: chrome=114.0.5735.199)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'TW-1056', ip: '192.168.1.2', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [646edb322615ef51e8f8617231e3cfba, actions {actions=[org.openqa.selenium.interactions.Sequence@1972b35]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 114.0.5735.199, chrome: {chromedriverVersion: 114.0.5735.90 (386bc09e8f4f..., userDataDir: C:\Users\HESHAM~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:57087}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57087/devtoo..., se:cdpVersion: 114.0.5735.199, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 646edb322615ef51e8f8617231e3cfba
+[INFO ] 2023-07-02 17:37:50.542 [TestNG-PoolService-2] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:37:50.542 [TestNG-PoolService-1] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:37:50.894 [TestNG-PoolService-0] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:38:33.192 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:38:42.498 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:38:43.630 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:38:43.925 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:38:46.928 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:38:47.127 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:38:47.512 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 17:38:52.306 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:38:52.470 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:38:52.706 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 17:38:59.734 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:43:12.556 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:43:22.754 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:43:23.883 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:43:24.187 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:43:27.653 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:43:27.866 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:43:28.196 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 17:43:29.753 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:43:29.948 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:43:30.234 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 17:43:34.086 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:48:37.709 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:49:01.544 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:49:05.810 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:49:06.106 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:50:58.534 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:50:58.758 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:50:59.068 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 17:51:12.834 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:51:13.061 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:51:13.344 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 17:51:21.893 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:52:58.092 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:53:07.703 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 17:53:08.774 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:53:09.061 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 17:53:11.966 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:53:12.212 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:53:12.562 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 17:53:14.439 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 17:53:14.612 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 17:53:14.911 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 17:53:17.873 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:21:16.717 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:21:27.948 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:21:29.034 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:21:29.377 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 18:21:33.209 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:21:33.433 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:21:33.736 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 18:21:37.930 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:21:38.105 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:21:38.869 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 18:21:43.550 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:45:20.268 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:45:39.632 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:45:40.692 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:45:41.004 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 18:45:50.439 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:45:50.653 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:45:50.947 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 18:45:54.670 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:45:54.841 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:45:55.103 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 18:45:59.943 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:49:12.657 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:49:23.006 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:49:24.073 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:49:24.369 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 18:49:27.916 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:49:28.104 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:49:28.380 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 18:49:30.305 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:49:30.488 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:49:30.751 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 18:49:33.949 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:55:42.344 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:55:55.406 [main] Log - Reading configuration from file browser.properties
+[INFO ] 2023-07-02 18:55:56.494 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:55:57.072 [main] Log - Click Element Natively: By.id: sa
+[INFO ] 2023-07-02 18:56:01.053 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:56:01.257 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:56:01.584 [main] Log - Click Element Natively: By.id: bh
+[INFO ] 2023-07-02 18:56:03.489 [main] Log - Capturing page screenshot
+[INFO ] 2023-07-02 18:56:03.654 [main] Log - Click Element Natively: By.id: country-btn
+[INFO ] 2023-07-02 18:56:03.923 [main] Log - Click Element Natively: By.id: kw
+[INFO ] 2023-07-02 18:56:07.162 [main] Log - Capturing page screenshot
